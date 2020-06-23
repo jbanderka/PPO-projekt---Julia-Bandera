@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1592926902 source:c:\users\julia laptop\desktop\solid figures\main.cpp
+	<iostream>
+	<string>
+	<list>
+	<bits/stdc++.h>
+	<fstream>
+	"classes.h"
+
+1592926834 c:\users\julia laptop\desktop\solid figures\classes.h
+	<limits>
+	<vector>
+	<fstream>
+
